@@ -17,9 +17,10 @@ Instructions for setting up the environment and installing necessary libraries.
 
 ```bash
 pip install pandas matplotlib seaborn
-
+```
 
 ## Run
 
 ```bash
 python main.py
+```
